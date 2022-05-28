@@ -2,7 +2,7 @@
 
 Steps to run the code - 
 1. After install and activating the virtual environment, run `pip install -r requirements.txt` to install all the dependency in the project.
-2. Run migrations - `python manange.py migrate`
+2. Run migrations - `python manage.py migrate`
 3. Upload the csv files data in the database by running - `python manage.py runscript loadcsv`
 4. Run the project -  `python manage.py runserver`
 
